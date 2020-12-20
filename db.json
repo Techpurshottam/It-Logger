@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "server gone wrong by 0904",
+      "attention": false,
+      "tech": "Margi Patel",
+      "date": "2020-11-29T16:04:47.820Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed network card at  1208",
+      "attention": false,
+      "tech": "Brad Traversy",
+      "date": "2020-11-29T17:31:58.802Z"
+    },
+    {
+      "message": "3344 wireless down",
+      "attention": true,
+      "tech": "Brad Traversy",
+      "date": "2020-11-29T16:07:38.707Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Adesh",
+      "lastName": "Vyas"
+    },
+    {
+      "id": 2,
+      "firstName": "Brad",
+      "lastName": "Traversy"
+    },
+    {
+      "id": 3,
+      "firstName": "Margi",
+      "lastName": "patel"
+    }
+  ]
+}
